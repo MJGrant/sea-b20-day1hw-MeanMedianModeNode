@@ -1,0 +1,11 @@
+{
+  "name": "MeanMedianModeNode",
+  "version": "0.0.1",
+  "description": "Accepts a series of numbers and finds the mean, median, and mode.",
+  "main": "meanmedianmode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mjgrant",
+  "license": "ISC"
+}
