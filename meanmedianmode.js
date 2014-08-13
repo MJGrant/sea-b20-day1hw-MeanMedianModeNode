@@ -43,7 +43,8 @@ function meanMedianMode(args) {
   //thanks http://www.sitepoint.com/javascript-array-sorting/ for the help
   sortArgs = sortArgs.sort(function(a,b) {
     return a - b;
-    });
+  });
+  
   var median = sortArgs[midpoint];
 
 
